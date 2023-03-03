@@ -1,0 +1,32 @@
+{
+  "name": "@ez-library/playwright",
+  "version": "1.0.0",
+  "description": "A Javascript library to make automation easy for playwright",
+  "main": "index.js",
+  "files": [
+    "lib/**",
+    "!playwright.config.js",
+    "!tests/**"
+  ],
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alamhamim/ez-library_playwright.git"
+  },
+  "keywords": [
+    "Automation",
+    "playwright",
+    "javascript"
+  ],
+  "author": "Hamim.A",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alamhamim/ez-library_playwright/issues"
+  },
+  "homepage": "https://github.com/alamhamim/ez-library_playwright#readme",
+  "dependencies": {
+    "playwright": "^1.31.1"
+  }
+}
